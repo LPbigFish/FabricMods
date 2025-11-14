@@ -1,0 +1,76 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "ddc96b08f1a32a08edd9b8e34257b9a37ea9b3836ae4371e26f54c4ade4fe3f1"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "f34fa12fe7701cf0776fef1a1f1e2e3c7227f53302b3d87b7ff307f0446a68d2"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "64badefe03082699f587274a31d1f0793583a4d88aac8ea2226162f80783fb52"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "b98e0aca52ce8d08ee8df7177886589511b8bca779af078a6ff4837e814bccf4"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "cbda4f1881cfb9f054395a3db225df4202d1f2e7bd0ed27d803b837fcf728621"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "186a261ded1911abf559dce21b22eadc1e96de7767982e58f458b82a89a924ba"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "a077e0482f50add9ef20e962a7939aa678583cb3f354fb6b6124219badafdd4d"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "eea37b6a60c019badb137a3e682461cab98ff7cb2e676620cb9fd649d21971d4"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "8f6e0157b42ba668c0ba9aa7eff94b3b91a8f58bcd357e574d70a7b160d4337c"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "84957275e9dc6f07f4244ce3303536e3d73b0e72eb1696ccd024168a52c29c98"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "c21e5c7c86e20d26b9936224db71c94558049000dbf2481f3f1649a62b41f2a1"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "70d7b2bca719eca2b3a1447228b868abdc633c38121652d49f4e34380c44339d"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "a9279c2f2dd4fa46d1946ed3f9b4bff975d635c7849b5abe8efb4186aed67512"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "cdde1ed66709cde0656be902a1109532f255fd1526991acebe91116a4ab399df"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "5df1792af4ba49d779050fe3d2e70bfa04deaade2b891f354e6efcc30baee8cb"
+metafile = true
