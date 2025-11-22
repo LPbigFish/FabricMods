@@ -126,6 +126,11 @@ hash = "279ea1bb4b776be9176fe34416e2132e37abfce4483def54177091cc0f2faade"
 metafile = true
 
 [[files]]
+file = "mods/universal-shops.pw.toml"
+hash = "74754469b268378d9c2a672f7fc364da2d3974a9006aff8da7f91f25bc7969d4"
+metafile = true
+
+[[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "5df1792af4ba49d779050fe3d2e70bfa04deaade2b891f354e6efcc30baee8cb"
 metafile = true
